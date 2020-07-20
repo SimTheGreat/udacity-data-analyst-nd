@@ -25,3 +25,5 @@ Here we tried ti define if we could analyse if a wine was good depending on its 
 here we analyes fuel and car types.
 </ul>
 <strong>more infos in each Projects readme</strong>
+certeficate:<br>
+![](certficate.png)
