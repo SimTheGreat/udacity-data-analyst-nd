@@ -26,4 +26,9 @@ here we analyes fuel and car types.
 </ul>
 <strong>more infos in each Projects readme</strong>
 certeficate:<br>
-![](certficate.png)
+<img
+src='certificate.png'
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
