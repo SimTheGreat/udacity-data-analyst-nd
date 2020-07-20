@@ -24,7 +24,7 @@ Here we tried ti define if we could analyse if a wine was good depending on its 
 <li><h2>fuel_data_analysis</h2>
 here we analyes fuel and car types.
 </ul>
-<strong>more infos in each Projects readme</strong>
+<strong>more infos in each Projects readme</strong><br>
 certeficate:<br>
 <img
 src='certificate.png'
