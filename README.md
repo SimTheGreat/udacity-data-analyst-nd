@@ -22,7 +22,7 @@ For this Project I chose the USA flight.I did both explanetory and exploretory v
 <li> <h2>wine-analysis</h2>
 Here we tried ti define if we could analyse if a wine was good depending on its cemical properties
 <li><h2>fuel_data_analysis</h2>
-here we analyes fuel and car types.
+here we analyes fuel and car types.And it is devided in six steps.
 </ul>
 <strong>more infos in each Projects readme</strong><br>
 certeficate:<br>
