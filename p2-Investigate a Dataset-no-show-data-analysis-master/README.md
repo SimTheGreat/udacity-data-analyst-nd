@@ -1,5 +1,5 @@
 # no-show-data-analysis
-![](photos/download.jpg)<br>
+
 a analysis about no show doctors apoinments<br>
 I have added the csv and the .ipynb<br>
 This is the 2 project of the data analysist<br>
