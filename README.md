@@ -26,10 +26,4 @@ Here we tried ti define if we could analyse if a wine was good depending on its 
 here we analyes fuel and car types.And it is devided in six steps.
 </ul>
 <strong>more infos in each Projects readme</strong><br>
-certeficate:<br>
-<img
-src='certificate.png'
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+
