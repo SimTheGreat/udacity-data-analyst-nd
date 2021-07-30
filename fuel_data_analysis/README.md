@@ -9,8 +9,8 @@ and the modules:
  <li><strong>seaborn</strong>
  <li><strong>matplotlib</strong></ul>
 
-I divided my analysis into 6 parts and creating new CSV files to update the change for you easily access it. <br>
-In case you want to only work with my final product just go to file 'step5 and 6'.<br>
+I divided my analysis into 6 parts and creating new CSV files. <br>
+In case you want to only see the final product just go to file 'step5 and 6'.<br>
  <em>If you want to see my code go to the rendered display of code that you wanted</em><br>
-In case you are having trouble understanding the df, take a look at <strong>Readme.txt</strong>, the <strong>Attribute	Description</strong> and the link to a pdf:https://www.fueleconomy.gov/feg/EPAGreenGuide/GreenVehicleGuideDocumentation.pdf<br>
-accsess my code go to the rendered display 
+link to a pdf:https://www.fueleconomy.gov/feg/EPAGreenGuide/GreenVehicleGuideDocumentation.pdf<br>
+
